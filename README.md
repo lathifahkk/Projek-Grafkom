@@ -1,8 +1,8 @@
 # Trashman
-**Projek Grafika Komputer**
+***Projek Grafika Komputer**
 
-Kelompok 16
-Paralel 1
+**Kelompok 16
+**Paralel 1
 
 
 ## Role
@@ -47,12 +47,12 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi Drama
 
 **Tools** | **Kegunaan**
 :-----:|:-----:
-Unity 2019.4.15f1 | Game engine open source yang digunakan untuk kolaborasi membuat game.
+Unity 2019.4.15f1 | Game engine open source yang multiplatfrom digunakan untuk mempermudah kolaborasi dalam membuat game.
 GitHub | Repositori yang digunakan untuk dokumentasi kolaborasi projek pembuatan game 
 Visual Studio Code | Teks Editor yang terhubung dengan Unity, digunakan untuk membuat script 
 C#| Bahasa pemrograman yang digunakan dalam menulis script
 Adobe Ilustrator | Mendesain berbagai asset vector art/ pixel art (Trashman, Kuman, UI, Sampah, PopUp, Kotak Sampah) yang dibuat sendiri
-Pixelator | Mengubah asset vector art menjadi pixel art
+Pixelator | Mengubah vector art menjadi pixel art
 remove.bg | website yang digunakan untuk menghapus background
 
 
