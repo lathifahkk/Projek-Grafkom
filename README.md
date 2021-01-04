@@ -49,10 +49,10 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi Drama
 :-----:|:-----:
 Unity 2019.4.15f1 | Game engine open source yang digunakan untuk kolaborasi membuat game.
 GitHub | Repositori yang digunakan untuk dokumentasi kolaborasi projek pembuatan game 
-Visual Studio code | Teks Editor yang terhubung dengan Unity, digunakan untuk membuat script 
+Visual Studio Code | Teks Editor yang terhubung dengan Unity, digunakan untuk membuat script 
 C#| Bahasa pemrograman yang digunakan dalam menulis script
 Adobe Ilustrator | Mendesain berbagai asset vector art/ pixel art (Trashman, Kuman, UI, Sampah, PopUp, Kotak Sampah) yang dibuat sendiri
-Pixelator | Mengubah asset vector art menjadi pixel art)
+Pixelator | Mengubah asset vector art menjadi pixel art
 remove.bg | website yang digunakan untuk menghapus background
 
 
@@ -72,3 +72,4 @@ Sound |
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
 Scrip | Membuat sendiri melalui tutorial dari berbagai sumber
 
+## 
