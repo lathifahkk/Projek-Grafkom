@@ -45,7 +45,7 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi Drama
 
 ## Teknologi yang Digunakan
 
-**Teknologi** | **Kegunaan**
+**Tools** | **Kegunaan**
 :-----:|:-----:
 Unity 2019.4.15f1 | Game engine open source yang digunakan untuk kolaborasi membuat game.
 GitHub | Repositori yang digunakan untuk dokumentasi kolaborasi projek pembuatan game 
@@ -58,7 +58,10 @@ remove.bg | website yang digunakan untuk menghapus background
 
 **Teknologi Grafika Komputer** | **Kegunaan**
 :-----:|:-----:
-Transform | memodifikasi ukuran, arah dari asset yang di gunakan pada Scene
+Platform 2D | Platrom game yang kami pilih untuk membuat game 
+Skalasi | memperbesar atau memperkecil ukuran Game Object yang digunakan pada Scene
+Rotasi | memutar atau mengubah arah dari Game Object yang digunakan pada Scene
+Posisi | koordinat letak dari Game Object yang digunakan pada Scene
 
 
 
@@ -72,4 +75,4 @@ Sound |
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
 Scrip | Membuat sendiri melalui tutorial dari berbagai sumber
 
-## 
+
