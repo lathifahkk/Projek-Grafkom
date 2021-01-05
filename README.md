@@ -67,12 +67,10 @@ remove.bg | website yang digunakan untuk menghapus background
 **Teknologi Grafika Komputer** 
 
 - Platform 2D : Platrom game yang kami pilih untuk membuat game 
-- Skalasi :  memperbesar atau memperkecil ukuran Game Object yang digunakan pada Scene
-- Rotasi : memutar atau mengubah arah dari Game Object yang digunakan pada Scene
-- Posisi : koordinat letak dari Game Object yang digunakan pada Scene
-- Proyeksi Orthogrphic
-
-
+- Scale :  memperbesar atau memperkecil ukuran Game Object yang digunakan pada Scene
+- Rotation : memutar atau mengubah arah dari Game Object yang digunakan pada Scene
+- Position : koordinat letak dari Game Object yang digunakan pada Scene
+- Projection Orthogrphic 
 
 
 ## Asset
@@ -85,4 +83,5 @@ Sound |
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
 Scrip | Membuat sendiri kode menggunakan bahasa pemrograman C# melalui tutorial dari berbagai sumber dari YouTube
 
+## Screnshoot Game
 
