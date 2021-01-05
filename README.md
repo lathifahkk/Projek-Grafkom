@@ -1,8 +1,9 @@
 # Trashman
-***Projek Grafika Komputer**
+**Projek Grafika Komputer**
 
-**Kelompok 16
-**Paralel 1
+**Kelompok 16**
+
+**Paralel 1**
 
 
 ## Role
@@ -36,7 +37,7 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi,
 	- Keyboard Space untuk loncat
 	- Kerboard Left untuk bergerak ke kiri (mundur)
 	- Keyboard Right untuk bergerak ke kanan (maju)
-	- tombol CTRK untuk melempar trashbag ke arah kuman untuk menanggkapnya
+	- Keyboard Ctrl untuk melempar trashbag ke arah kuman untuk menanggkapnya
 3. Gerakkan Trashman untuk menganbil sampah yang tersebar dijalanan
 4. Hindari kuman, sungai, dan jurang, jika tidak maka nyawamu akan berkurang.
 5. Jika bertemu dengan kuman maka bergeraklah menghindari kuman atau lemparkan trashbag kearahnya.
