@@ -28,7 +28,7 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi,
 - Tempat sampah organik (warnna hijau), tempat sampah anorganik (warna kuning), dan tempat sampah anorganik berbahaya/B3 (warna merah).
 - Pemain harus mengumpulkan sebanyak 100 poin untuk dapat lanjut ke level berikutnya. 
 - Jika terkena kuman, nyawa pemain akan berkurang.  
-- Jika menangkap kuman dengan trashbag dan mengambilnya, poin pemain bertambah.
+- Jika menangkap kuman dengan menembakkan trashbag dan mengambilnya, poin pemain bertambah.
  
 
 ## Goal
@@ -37,7 +37,7 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi,
 
 ## Tutorial Game
 1. Pada Welcome Page, tekan mulai untuk memulai permainan
-3. Jalankan Trashman untuk menganbil sampah yang tersebar dijalanan
+3. Jalankan Trashman untuk mengambil sampah yang tersebar dijalanan
 4. Hindari kuman, sungai, dan jurang, jika tidak maka nyawamu akan berkurang.
 5. Jika bertemu dengan kuman maka bergeraklah menghindari kuman atau lemparkan trashbag kearahnya.
 6. Jika kuman terkena trashbag, maka ambil trashbag tersebut untuk mencapatkan poin tambahan.
