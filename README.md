@@ -77,7 +77,8 @@ remove.bg | website yang digunakan untuk menghapus background
 **Asset**| **Sumber**
 :-----:|:-----:
 Tilemaps | https://assetstore.unity.com/packages/2d/environments/nature-pixel-art-base-assets-free-151370
-Background level 1 & 2| https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+Background level 1 | https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+Background level 3 | https://id.pinterest.com/pin/834362268434060423/
 Background level 3 | https://www.deviantart.com/philllchabbb/art/Pixel-Moldering-Dark-Forest-366606679
 Sound | 
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
