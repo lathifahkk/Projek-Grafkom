@@ -80,7 +80,7 @@ Tilemaps | https://assetstore.unity.com/packages/2d/environments/nature-pixel-ar
 Background level 1 | https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
 Background level 3 | https://id.pinterest.com/pin/834362268434060423/
 Background level 3 | https://www.deviantart.com/philllchabbb/art/Pixel-Moldering-Dark-Forest-366606679
-Sound | 
+Sound | https://freesound.org/
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
 Scrip | Membuat sendiri kode menggunakan bahasa pemrograman C# melalui tutorial dari berbagai sumber dari YouTube
 
