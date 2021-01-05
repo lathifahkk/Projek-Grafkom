@@ -16,15 +16,18 @@ Lathifah Kurnia Kusumaningtyas | G64180023 | Game Programmer
 
 
 ## Story Game
-Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi, melawan kuman, dan menyelamatkan bumi di tingkat terakhir. Sepanjang perjalanan ia menemukan banyak sekali sampah. Trashman mengumpulkan semua sampah tersebut dan di perjalanan ia melihat tempat sampah. Ketika menemukan tempat sampah, ia memasukkan sampah yang ia bawa sesuai dengan jenisnya. Namun, dalam perjalanannya ada musuh, yaitu kuman yang selalu mengganggu dan menghalangi trashman untuk membuang sampah. Trashman dapat melawan para musuh dengan menembak musuh dengan trashbag yang dimilikinya. Selama dalam permainan, trashman akan mendapatkan poin saat ia memasukkan sampah ke tempat sampah yang benar. Kekuatan trashman juga akan meningkat  bila mengumpulkan sampah sebanyak mungkin. Trashman dapat lanjut ke level berikutnya ketika mendapatkan 100 poin. Apabila tidak mencukupi, maka permainan akan berakhir (game over).
+Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi, melawan kuman, dan menyelamatkan bumi di tingkat terakhir. Sepanjang perjalanan ia menemukan banyak sekali sampah. Trashman mengumpulkan semua sampah tersebut dan di perjalanan ia melihat tempat sampah. Ketika menemukan tempat sampah, ia memasukkan sampah yang ia bawa sesuai dengan jenisnya. Namun, dalam perjalanannya ada musuh, yaitu kuman yang selalu mengganggu dan menghalangi trashman untuk membuang sampah. Trashman dapat melawan para musuh dengan menembak musuh dengan trashbag yang dimilikinya. Selama dalam permainan, trashman akan mendapatkan poin saat ia memasukkan sampah ke tempat sampah yang benar. Kekuatan trashman juga akan meningkat  bila mengumpulkan sampah sebanyak mungkin. Trashman dapat lanjut ke level berikutnya ketika mendapatkan 100 poin. Apabila poin tidak mencukupi, maka permainan akan berakhir (game over).
 
 
 ## Rule
 - Permainan terdiri dari 3 level.  
+- Pemain diberikan 3 kesempatan 
 - Pemain harus mengambil sampah yang ditemukan dalam perjalannya.
 - Pemain memasukkan sampah ke tempat sampah yang telah disiapkan sesuai dengan jenisnya.
 - Tempat sampah organik (warnna hijau), tempat sampah anorganik (warna kuning), dan tempat sampah anorganik berbahaya/B3 (warna merah).
 - Pemain harus mengumpulkan sebanyak 100 poin untuk dapat lanjut ke level berikutnya. 
+- Jika terkena kuman, nyawa pemain akan berkurang.  
+- Jika menangkap kuman dengan trashbag dan mengambilnya, poin pemain bertambah.
  
 
 ## Goal
