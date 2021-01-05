@@ -15,20 +15,20 @@ Lathifah Kurnia Kusumaningtyas | G64180023 | Game Programmer
 
 
 ## Story Game
-Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi Dramaga, melawan bakteri, dan menyelamatkan bumi di tingkat terakhir. Sepanjang perjalanan ia menemukan banyak sekali sampah. Trashman mengumpulkan semua sampah tersebut dan di perjalanan ia melihat tempat sampah. Ketika menemukan tempat sampah, ia memasukkan sampah yang ia bawa sesuai dengan jenisnya. Namun, dalam perjalanannya ada musuh, yaitu bakteri yang selalu mengganggu dan menghalangi trashman untuk membuang sampah. Trashman dapat melawan para musuh dengan menembak musuh dengan trashbag yang dimilikinya. Selama dalam permainan, trashman akan mendapatkan kekuatan dan poin saat ia memasukkan sampah ke tempat sampah yang benar. Kekuatan trashman juga akan meningkat  bila mengumpulkan sampah sebanyak mungkin.
+Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi, melawan kuman, dan menyelamatkan bumi di tingkat terakhir. Sepanjang perjalanan ia menemukan banyak sekali sampah. Trashman mengumpulkan semua sampah tersebut dan di perjalanan ia melihat tempat sampah. Ketika menemukan tempat sampah, ia memasukkan sampah yang ia bawa sesuai dengan jenisnya. Namun, dalam perjalanannya ada musuh, yaitu kuman yang selalu mengganggu dan menghalangi trashman untuk membuang sampah. Trashman dapat melawan para musuh dengan menembak musuh dengan trashbag yang dimilikinya. Selama dalam permainan, trashman akan mendapatkan poin saat ia memasukkan sampah ke tempat sampah yang benar. Kekuatan trashman juga akan meningkat  bila mengumpulkan sampah sebanyak mungkin. Trashman dapat lanjut ke level berikutnya ketika mendapatkan 100 poin. Apabila tidak mencukupi, maka permainan akan berakhir (game over).
 
 
 ## Rule
-- Permainan terdiri dari 3 level. 
-- Pemain harus mengambil sampah yang ditemukan di setiap perjalannya dan memasukkannya ke tempat sampah yang sesuai dengan jenis sampahnya.
-- Awalnya pemain hanya diberi 3 kesempatan.
-- Kesempatan akan bertambah 1 bila pemain memperoleh skor 100.
-- Jika kehabisan nyawa maka akan terjadi game over dan pemain harus mengulang tingkatan  dari level pertama.
-- Untuk dapat lanjut ke level berikutnya, pemain harus mengumpulkan poin sebanyak 100 poin. 
+- Permainan terdiri dari 3 level.  
+- Pemain harus mengambil sampah yang ditemukan dalam perjalannya.
+- Pemain memasukkan sampah ke tempat sampah yang telah disiapkan sesuai dengan jenisnya.
+- Tempat sampah organik (warnna hijau), tempat sampah anorganik (warna kuning), dan tempat sampah anorganik berbahaya/B3 (warna merah).
+- Pemain harus mengumpulkan sebanyak 100 poin untuk dapat lanjut ke level berikutnya. 
+ 
 
 ## Goal
-- Memasukkan sampah sesuai dengan jenisnya ke dalam tempat sampah yang benar, yaitu tempat sampah organik (warna hijau),Tempat Sampah Non Organik (warna kuning), Tempat Sampah B3 atau Bahan Berbahaya dan Beracun(warna merah)
-- Melawan musuh dan menyelamatkan bumi hingga level terakhir
+- Memasukkan sampah sesuai dengan jenisnya ke dalam tempat sampah yang benar, yaitu tempat sampah organik (warna hijau), tempat sampah anorganik (warna kuning), tempat sampah B3 atau Bahan Berbahaya dan Beracun(warna merah)
+- Melawan kuman dan menyelamatkan bumi hingga level terakhir
 
 ## Tutorial Game
 1. Pada Welcome Page, tekan mulai untuk memulai permainan
