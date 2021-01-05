@@ -1,5 +1,6 @@
-# Trashman
+# Super Trashman
 **Projek Grafika Komputer**
+___
 
 **Kelompok 16**
 
@@ -36,16 +37,19 @@ Pemain akan berperan sebagai trashman. Tujuan permainan adalah menjelajahi bumi,
 
 ## Tutorial Game
 1. Pada Welcome Page, tekan mulai untuk memulai permainan
-2. Karakter Trashman dapat kendalikan / digerakkan dengan menekan :
-	- Keyboard Space untuk loncat
-	- Kerboard Left untuk bergerak ke kiri (mundur)
-	- Keyboard Right untuk bergerak ke kanan (maju)
-	- Keyboard Ctrl untuk melempar trashbag ke arah kuman untuk menanggkapnya
-3. Gerakkan Trashman untuk menganbil sampah yang tersebar dijalanan
+3. Jalankan Trashman untuk menganbil sampah yang tersebar dijalanan
 4. Hindari kuman, sungai, dan jurang, jika tidak maka nyawamu akan berkurang.
 5. Jika bertemu dengan kuman maka bergeraklah menghindari kuman atau lemparkan trashbag kearahnya.
 6. Jika kuman terkena trashbag, maka ambil trashbag tersebut untuk mencapatkan poin tambahan.
 7. Masukkan sampah ke kotak sampah yang tepat untuk mendapatkan point
+
+
+## Game Movement
+Menggunakan keyboard
+- Space : loncat (Jump)
+- Left : bergerak ke kiri (Run back)
+- Right : ke kanan (Run)
+- Ctrl : melempar trashbag ke arah kuman untuk menanggkapnya (Attach)
 
 ## Teknologi yang Digunakan
 
@@ -60,12 +64,13 @@ Pixelator | Mengubah vector art menjadi pixel art
 remove.bg | website yang digunakan untuk menghapus background
 
 
-**Teknologi Grafika Komputer** | **Kegunaan**
-:-----:|:-----:
-Platform 2D | Platrom game yang kami pilih untuk membuat game 
-Skalasi | memperbesar atau memperkecil ukuran Game Object yang digunakan pada Scene
-Rotasi | memutar atau mengubah arah dari Game Object yang digunakan pada Scene
-Posisi | koordinat letak dari Game Object yang digunakan pada Scene
+**Teknologi Grafika Komputer** 
+
+- Platform 2D : Platrom game yang kami pilih untuk membuat game 
+- Skalasi :  memperbesar atau memperkecil ukuran Game Object yang digunakan pada Scene
+- Rotasi : memutar atau mengubah arah dari Game Object yang digunakan pada Scene
+- Posisi : koordinat letak dari Game Object yang digunakan pada Scene
+- Proyeksi Orthogrphic
 
 
 
@@ -74,9 +79,10 @@ Posisi | koordinat letak dari Game Object yang digunakan pada Scene
 **Asset**| **Sumber**
 :-----:|:-----:
 Tilemaps | https://assetstore.unity.com/packages/2d/environments/nature-pixel-art-base-assets-free-151370
-Background level 1 | https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+Background level 1 & 2| https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
+Background level 3 | https://www.deviantart.com/philllchabbb/art/Pixel-Moldering-Dark-Forest-366606679
 Sound | 
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
-Scrip | Membuat sendiri melalui tutorial dari berbagai sumber
+Scrip | Membuat sendiri kode menggunakan bahasa pemrograman C# melalui tutorial dari berbagai sumber dari YouTube
 
 
