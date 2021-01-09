@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - trash
+  - enemy
+  - gm
+  - Effect
+  - Trashbag
+  - TrashB3
+  - TrashOrganic
+  - TrashInorganic
+  - UI
+  - RedTrashbin
+  - YellowTrashbin
+  - GreenTrashbin
+  - CheckPoint
+  - CheckPoint2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Character
+  - Ground
+  - Enemy
+  - Environment
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2330475571
+    locked: 0
+  - name: Ground
+    uniqueID: 2170198209
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3234137353
+    locked: 0
