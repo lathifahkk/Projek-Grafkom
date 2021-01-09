@@ -6,6 +6,11 @@ ___
 
 **Paralel 1**
 
+___
+
+
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/Scene%20Welcome%20Landing.png?raw=true)
+
 
 ## Role
 
@@ -49,7 +54,7 @@ Menggunakan keyboard
 - Space : loncat (Jump)
 - Left : bergerak ke kiri (Run back)
 - Right : ke kanan (Run)
-- Ctrl : melempar trashbag ke arah kuman untuk menanggkapnya (Attach)
+- Left Ctrl : melempar trashbag ke arah kuman untuk menanggkapnya (Attach)
 
 ## Teknologi yang Digunakan
 
@@ -82,7 +87,20 @@ Background level 3 | https://id.pinterest.com/pin/834362268434060423/
 Background level 3 | https://www.deviantart.com/philllchabbb/art/Pixel-Moldering-Dark-Forest-366606679
 Sound | https://freesound.org/
 Trashman, Kuman, UI Object, PopUp Object, Sampah, Kotak Sampah, Button| Membuat Sendiri
-Scrip | Membuat sendiri kode menggunakan bahasa pemrograman C# melalui tutorial dari berbagai sumber dari YouTube
+Script | Membuat sendiri kode menggunakan bahasa pemrograman C# melalui tutorial dari berbagai sumber dari YouTube
 
 ## Screnshoot Game
 
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/Scene%20Level%201.png?raw=true)
+
+![alt text](https://github.com/fid3101/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/Screenshot%20(555).png?raw=true)
+
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/Scene%20Level%203.png?raw=true)
+
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/Scene%20Level%20Picker%20(1).png?raw=true)
+
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/PopUp%20Buang%20Sampah%20Organik.png?raw=true)
+
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/PopUp%20Pause%20botton%20(1).png?raw=true)
+
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/PopUp%20Petunjuk.png?raw=true)
